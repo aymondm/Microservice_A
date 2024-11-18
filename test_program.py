@@ -26,4 +26,7 @@ print("Test Case 6 (length not specified, numbers not specified, and special cha
 print("Password: " + test_program(special=0))
 
 print("Test Case 6 (length out of range)")
-print("Password: " + test_program(length=4))
+print(test_program(length=4))
+
+print("Test Case 7 (numbers value out of range)")
+print(test_program(numbers=2))
