@@ -6,6 +6,7 @@ The microservice was developed with Flask and written in Python.
 In order to run this microservice locally, install Flask and the Python. The microservice runs at localhost, port 5000. 
 
 
+
 Communication Contract
 
 This microservice communicates using REST API. It accepts HTTP GET requests using a local endpoint and returns a JSON response. 
@@ -41,4 +42,6 @@ Reponse:
 
 
 UML Diagram: 
-[![A diagram in UML format for Microservice A](/UML.png "UML Diagram for Microservice A")]
+
+
+![A diagram in UML format for Microservice A](/UML.png "UML Diagram for Microservice A")
