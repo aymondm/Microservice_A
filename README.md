@@ -37,3 +37,8 @@ Reponse:
   "2x1pq#>r:H"
 }
 
+
+
+
+UML Diagram: 
+[![A diagram in UML format for Microservice A](/UML.png "UML Diagram for Microservice A")]
