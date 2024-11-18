@@ -19,6 +19,7 @@ With the microservice running locally, send a GET request to http://127.0.0.1:50
 Example Call: 
 
 http://127.0.0.1:5000/generate-password?length=40&numbers=1&special=0
+
 This will request a password 40 characters long, including numbers and no special characters.
 
 
